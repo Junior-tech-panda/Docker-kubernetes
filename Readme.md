@@ -109,3 +109,7 @@ Ci-dessous un exemple de description des qualifications souhaitées pour un post
 Compte tenu de tout cela, je vous invite tous à donner l’importance à ce volet « rapport » de votre projet final, car c’est également une partie très importante qui devra pouvoir décrire le contenu de l’ensemble de votre travail.  
 
 Merci de le rédiger correctement avec les captures d’écran, commentaires et explications qui vont bien car cette partie sera prise en compte dans votre note finale.
+
+## **5) PARTIE OPTIONEL (Bonus)**
+
+- Faire de la persistance des données en créant des ressources de types PV et PVC.
